@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729626851454",
+    "project_id": "safe-ship-9adf5",
+    "storage_bucket": "safe-ship-9adf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729626851454:android:a11e90bcae847941cd802f",
+        "android_client_info": {
+          "package_name": "com.bhojya.SafeShip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqqRoFVzEhOktlil8tbZkb8rK297tKQVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
